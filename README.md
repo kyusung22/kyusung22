@@ -1,5 +1,5 @@
 <h2 align="center">
-  🚀 새로운 기술을 빠르게 배우고 적용하는 개발자입니다. 🌟
+  😀 새로운 기술을 빠르게 배우고 적용하는 개발자입니다. 🌟
 </h2>
 <br>
 
@@ -26,6 +26,12 @@
 - **Back-end:** Java, Spring Boot, Spring MVC, MyBatis, JSP/JSTL
 - **Database:** MySQL
 - **DevOps & Tools:** Git, GitHub
+<br><br>
+
+## 📜 Certifications
+- SQLD (SQL Developer)  
+- 정보처리기사  
+- 빅데이터분석기사
 <br><br>
 
 ## 📊 Online Profiles
