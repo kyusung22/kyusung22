@@ -1,5 +1,8 @@
-# Welcome to kyusung22 Github!
+<h2 align="center">
+  🚀 새로운 기술을 빠르게 배우고 적용하는 개발자입니다. 🌟
+</h2>
 <br>
+
 
 ## 🙋‍♂️ Profile
 - ('18.03 ~ '22.02) SCHU 의료IT공학과 18 
