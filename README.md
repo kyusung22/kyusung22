@@ -2,7 +2,7 @@
 <br>
 
 ## 🙋‍♂️ Profile
-- ('18.03 ~ '22.02) SCHU Medical Information Technology Engineering 18 
+- ('18.03 ~ '22.02) SCHU 의료IT공학과 18 
 - ('22.03 ~ '24.06) 대한민국 육군 장교 복무 (교육장교)
 - ('25.01 ~ ) SSAFY 13th 
 <br><br>
