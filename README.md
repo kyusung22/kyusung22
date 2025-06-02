@@ -1,4 +1,8 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=516395&height=170&section=header&text=kyusung22&fontSize=40&fontColor=FFFFFF&fontAlign=70)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbtjd0312)](https://solved.ac/rbtjd0312/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyusung22&show_icons=true&theme=dark)
+
 
 <!--
 **kyusung22/kyusung22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
